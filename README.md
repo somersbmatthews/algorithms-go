@@ -1,0 +1,1 @@
+Some exercises from Data Structures and Algorithm in Go by Hemant Jain, 1st Edition
